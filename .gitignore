@@ -1,0 +1,9 @@
+# Arquivos de build
+bin/
+obj/
+
+# Configurações de usuário e IDE
+*.suo
+*.user
+*.vs
+.vscode/
